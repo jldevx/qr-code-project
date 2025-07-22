@@ -21,7 +21,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Links
 
-- Live Site URL: [Add your live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add your live site URL here](https://jldevx.github.io/qr-code-project/)
 
 ## My process
 
@@ -44,4 +44,4 @@ In future projects, I want to improve the **responsiveness** of my designs and f
 ## Author
 
 - Jay
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@jldevx](https://www.frontendmentor.io/profile/jldevx)
